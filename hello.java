@@ -13,5 +13,7 @@ class hello
 
         float num2=1.4f;
         System.out.println(num2);
+
+        System.out.println("M");
     }
 }
