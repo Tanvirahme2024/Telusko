@@ -15,5 +15,10 @@ class hello
         System.out.println(num2);
 
         System.out.println("M");
+
+        int num5=5;
+        num5++;
+
+        System.out.println(num5);
     }
 }
