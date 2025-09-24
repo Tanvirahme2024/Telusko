@@ -33,7 +33,7 @@ public class practice_class {
         int sub=cal.sub(1500,20);
         System.out.println(sub);
         double div=cal.div(100,0);
-        System.out.println(div);;
+        System.out.println(div);
     }
     
 }

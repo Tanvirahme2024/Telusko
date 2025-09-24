@@ -12,15 +12,15 @@ public class loop {
         
     }
     System.out.println("Bye "+i);
-        
-    }*/
-
-     //Do while
+    */
     
+    //Do while
     int j=1;
     do{
       System.out.println("Tanvir");
     }
     while(j<=0);
+        
+    }
      
 }
